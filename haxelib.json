@@ -1,0 +1,11 @@
+{
+  "name": "nme-store-utils",
+  "url": "https://github.com/haxenme",
+  "license": "Apache",
+  "tags": [ "ios", "store", "ssl"  ],
+  "description": "Crypto verification of app store purchases",
+  "version": "1.0.0",
+  "releasenote": "Initial version",
+  "contributors": [ "gamehaxe" ],
+  "dependencies": {}
+}
